@@ -5,6 +5,7 @@ Working name. This is the base repository for Infinics Studio: business users de
 ## Documents
 
 - [`docs/spec/INFINICS_STUDIO_SPEC.md`](docs/spec/INFINICS_STUDIO_SPEC.md) is the product vision, requirements and fit criteria (v1.0).
+- [`docs/features/catalog.md`](docs/features/catalog.md) proposes the Catalog feature: a store of solution templates, adapted from Rome's App Store.
 - [`docs/evaluation/rome-fit-report.md`](docs/evaluation/rome-fit-report.md) evaluates [`rome-os/rome`](https://github.com/rome-os/rome) as a foundation, using the procedure in section 0 of the spec.
 
 ## Status
